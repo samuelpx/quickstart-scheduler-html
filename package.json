@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@nylas/react": "^1.1.0-canary.8",
+    "@nylas/web-elements": "^1.1.0-canary.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"
