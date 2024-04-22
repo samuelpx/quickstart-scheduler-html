@@ -1,4 +1,4 @@
-# code-sample-description
+# quickstart-scheduler-html
 
 This sample repo will show you how to easily create a custom Scheduler with Nylas. To follow along, consider taking a look at the [Nylas doc's Scheduler Quickstart guide](https://adm-scheduler-v3-quickstart.docs-5d8.pages.dev/docs/v3/quickstart/scheduler/).
 
