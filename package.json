@@ -9,13 +9,6 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "@nylas/react": "^1.1.0-canary.8",
-    "@nylas/web-elements": "^1.1.0-canary.12",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.22.3"
-  },
   "devDependencies": {
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
@@ -27,5 +20,9 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@nylas/react": "^1.1.0",
+    "@nylas/web-elements": "^1.1.0"
   }
 }
